@@ -1,0 +1,6 @@
+{
+  "name": "AuraFocus",
+  "description": "Aesthetic Pomodoro timer with 5 serene themes, distraction app blocker, customizable tasks, offline sync & detailed weekly analytics, and AI productivity coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
